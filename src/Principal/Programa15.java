@@ -12,12 +12,15 @@ public class Programa15 {
 		res = num2 + num1;		
 		System.out.println("A soma de " + num1 + " e " + num2 + " = " + res);
 		
+		//subtração
 		res = num2 - num1;
 		System.out.println("A subtração de " + num2 + " e " + num1 + " = " + res);
 		
+		//multiplicação
 		res = num2 * num1;
 		System.out.println("A multiplicação de " + num2 + " e " + num1 + " = " + res);
 		
+		//divisão
 		res = num2 / num1; //inteiro
 		System.out.println("A divisão de " + num2 + " e " + num1 + " = " + res);
 		
