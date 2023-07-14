@@ -1,7 +1,7 @@
 //Operador ternario 
 package Principal;
 
-public class Progama05 {
+public class Programa05 {
 	public static void main(String[] args) {
 		
 		int valor = 5, numero;
