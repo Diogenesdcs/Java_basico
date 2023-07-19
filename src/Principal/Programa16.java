@@ -25,7 +25,7 @@ public class Programa16 {
 		String nomes[] = new String[5];
 		char inteiro[] = new char[5];
 		float caracteres[] = new float[5];
-
+   
 
 };
 
