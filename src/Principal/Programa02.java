@@ -1,7 +1,7 @@
 //compilador e bytecode
 package Principal;
 
-public class programa02 {
+public class Programa02 {
 
 	public static void main(String[] args) {
 		int idade = 28;

@@ -11,8 +11,7 @@ package Principal;
 public class Programa16 {
 
 	public static void main(String[] args) {
-		String out;
-	//declarando um vetor 
+		//declarando um vetor 
 		int vetor[];
 		
 		//declarando e especificando um vetor 
@@ -25,8 +24,7 @@ public class Programa16 {
 		String nomes[] = new String[5];
 		char inteiro[] = new char[5];
 		float caracteres[] = new float[5];
-   
 
-};
+	};
 
 }
