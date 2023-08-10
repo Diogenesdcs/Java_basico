@@ -23,8 +23,9 @@
 */
 
 package Principal;
-
+//classe
 public class Produto {
+//atributos caracteristicas da classe. são utilizados pelos objetos.	
 	String nome;
 	float preco;
 	float desconto;
