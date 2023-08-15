@@ -13,7 +13,7 @@ public class Programa22 {
 		//Declaração de objeto Instânciação de objeto e inicialização de objeto
 		//p1 Instância do objeto.
 		//Produto é a classe. Classe se torna um objeto instanciado.
-		Produto p1 = new Produto();
+		Produto p1 = new Produto(); //new é o construtor
 		p1.nome = "Notebook";
 		p1.preco = 1500f;
 		p1.desconto = 10.01f;
